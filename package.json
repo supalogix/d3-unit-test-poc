@@ -1,0 +1,19 @@
+{
+  "name": "d3-unit-test-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^3.5.6",
+    "gulp": "^3.9.0",
+    "gulp-jasmine": "^2.2.0",
+    "jasmine-node": "^1.14.5",
+    "jsdom-no-contextify": "^3.1.0",
+    "sys": "0.0.1"
+  }
+}
